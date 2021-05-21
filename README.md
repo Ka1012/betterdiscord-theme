@@ -1,0 +1,2 @@
+# betterdiscord-theme
+Blackclover theme
