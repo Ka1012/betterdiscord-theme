@@ -1,3 +1,4 @@
-# betterdiscord-theme
-Blackclover theme
-so you go on YT and look at a vi on How to add a theme add u add it
+download better discord 
+open the theme folder
+drag the blackclover Theme V2 into the theme folder and you activate it
+and boom you have a better discord theme
